@@ -1,0 +1,13 @@
+Project C:\Users\tliu2\Downloads\XY_Chart_Common_Property_DT\XY_Chart_Common_Property_DT\XY_Chart__Common_Property.optix upgraded on 05-03-2024 10:27:26.913
+
+Upgraded modules:
+FTOptix.HMIProject: from 1.0 to 6.0
+FTOptix.Core: from 1.0 to 3.0
+FTOptix.WebUI: from 1.0 to 1.1
+FTOptix.CoreBase: from 1.0 to 3.1
+FTOptix.UI: from 1.0 to 12.4
+FTOptix.NativeUI: from 1.0 to 2.0
+
+No potential breaking changes detected
+
+
